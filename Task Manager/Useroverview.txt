@@ -1,0 +1,21 @@
+These is information for the users
+The total users are 3
+The total users genrated using the taskmangaer is 2
+
+Deitails for user admin
+the total number of task assigned to admin is 2
+the percentage of complete is 100.0
+the percentage of uncomplete is 0%
+the percentage of overdue and incomplete is 0%
+
+Deitails for user caro
+the total number of task assigned to caro is 0
+the percentage of complete is 0%
+the percentage of uncomplete is 0%
+the percentage of overdue and incomplete is 0%
+
+Deitails for user brighton
+the total number of task assigned to brighton is 1
+the percentage of complete is 0%
+the percentage of uncomplete is 100.0
+the percentage of overdue and incomplete is 0%
